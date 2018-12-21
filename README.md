@@ -11,6 +11,7 @@ project with a new API design, focused around security and performance.
 
 [![Circle CI](https://circleci.com/gh/docker/distribution/tree/master.svg?style=svg)](https://circleci.com/gh/docker/distribution/tree/master)
 [![GoDoc](https://godoc.org/github.com/docker/distribution?status.svg)](https://godoc.org/github.com/docker/distribution)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fequaqin%2Fdistribution.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fequaqin%2Fdistribution?ref=badge_shield)
 
 This repository contains the following components:
 
@@ -128,3 +129,6 @@ avenues are available for support:
 ## License
 
 This project is distributed under [Apache License, Version 2.0](LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fequaqin%2Fdistribution.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fequaqin%2Fdistribution?ref=badge_large)
